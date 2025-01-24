@@ -1,4 +1,15 @@
-The homework read me section
-This is the part where I explain the code
-I just printed a couple sentences
-Then a little bit of math
+print("homework 1!")
+print('learning to code!')
+print("sample text")
+
+a = 6
+print(a+2.0)
+a/=2
+print(a)
+b = 3
+print(a**b)
+b -= a
+print(b+2)
+c = a > b
+print(c and a)
+print(a+b+c)
